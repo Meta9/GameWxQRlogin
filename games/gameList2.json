@@ -16,6 +16,16 @@
       "icon": "https://mmocgame.qpic.cn/wechatgame/duc2TvpEgSR53WIVgEfYglMDO8O4iaficqga0EgQichficmUAp9Ydzb0nOggezEttDMJ/0"
     },
     {
+      "name": "高能英雄",
+      "py": "gnyx",
+      "appId": "wx0cd77b1db49fc574",
+      "bundleId": "com.tencent.tmgp.gnyx",
+      "pkg": "",
+      "cls": "",
+      "help": "",
+      "icon": "https://mmocgame.qpic.cn/wechatgame/duc2TvpEgSR53WIVgEfYglMDO8O4iaficqga0EgQichficmUAp9Ydzb0nOggezEttDMJ/0"
+    },
+    {
       "name": "英雄联盟手游",
       "py": "yxlm",
       "appId": "wx5a611599efa17e78",
