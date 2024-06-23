@@ -6,6 +6,15 @@
   ],
   "game": [
     {
+      "name": "地下城与勇士：起源",
+      "py": "dnf",
+      "appId": "wx15e4ed4511fd50c9",
+      "bundleId": "com.tencent.tmgp.dnf",
+      "pkg": "",
+      "cls": "",
+      "help": "",
+      "icon": "https://mmgame.qpic.cn/image/394ab9e9e4c3f147af9757a395a6bf44c1665284395d45bc9925e27c147688da/0"
+    },
       "name": "王者荣耀",
       "py": "wzry",
       "appId": "wx95a3a4d7c627e07d",
